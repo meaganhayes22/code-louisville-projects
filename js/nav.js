@@ -5,23 +5,18 @@ const navs = [{
         Alt: ' Click here to view the home link '
     },
     {
-        Text: ' Link-1 ',
-        Url: ' link-1.html ',
+        Text: ' About',
+        Url: ' #about ',
         Class: ' link-1',
         Alt: ' Click Here to visit Link-1 '
     },
     {
-        Text: ' Link-2 ',
-        Url: ' link-2.html',
+        Text: ' Services',
+        Url: ' #services',
         Class: ' link-2 ',
         Alt: ' Click here to visit Link-2 '
     },
-    {
-        Text: ' Link-3 ',
-        Url: ' link-3.html ',
-        Class: ' Click here to visit Link-3 ',
-        Alt: ' Click Here to visit Link 3 '
-    }
+ 
 
 
 ];
